@@ -25,11 +25,11 @@ Oliver = Person ('Oliver')
 
 Oliver.greet()
 
-Ham = Person ('Ham',40)
+Ham = Person ('Ham',40, 'accountant')
 
 Ham.greet()
 Ham.show_age()
-
+Ham.show_job()
 
 
 Oliver = Person ('Oliver', '','worker')
