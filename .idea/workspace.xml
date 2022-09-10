@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="ad731bd4-092e-4222-b5ef-90448f553591" name="Default Changelist" comment="" />
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc84345a-1f41-42c1-bda8-c32a8eef8124" name="Default Changelist" comment="" />
+>>>>>>> 3884e2e4c7fbb096bbdd593549103f9276367ea5
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,14 +18,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EaiWEqEmUCPCuCzS9bblPbBMCF" />
+=======
+  <component name="ProjectId" id="2EagncS7CZoi9nLclRleQYsLLsJ" />
+>>>>>>> 3884e2e4c7fbb096bbdd593549103f9276367ea5
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -46,4 +59,23 @@
       </map>
     </option>
   </component>
+=======
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc84345a-1f41-42c1-bda8-c32a8eef8124" name="Default Changelist" comment="" />
+      <created>1662839280019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662839280019</updated>
+    </task>
+    <servers />
+  </component>
+>>>>>>> 3884e2e4c7fbb096bbdd593549103f9276367ea5
 </project>
